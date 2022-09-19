@@ -1,0 +1,5 @@
+name_1 = input ("Whats your full name? ")
+print((name_1 ) *3)
+print((name_1.upper()))
+print((name_1.lower()))
+print((name_1.title()))
